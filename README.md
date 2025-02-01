@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🤔 I’m looking for help with Bitcoin / AGI / making Ai consciouss / whatever has a huge positive impact on humanity :)
-- 📫 How to reach me: eliaspfeffer@gmail.com
+- 🤔 I would love to help projects related to Bitcoin / AGI / making Ai consciouss :)
 - 🔭 I’m currently working on a Bitcoin Bank, a Bitcoin Trading Bot (BitcoinAlgoTra.de) & an AGI concept of mine. 
 - ⚡ Fun fact: I've sit on the same 🚽 as Elon. Weird fun fact, I know. Lol. 
+- 📫 How to reach me: eliaspfeffer@gmail.com
 <!--
 **eliaspfeffer/eliaspfeffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
