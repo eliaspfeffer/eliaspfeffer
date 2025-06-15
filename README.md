@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I'm an engineer (B.Eng in Mechatronics - w/ in Automation).
+- I'm an engineer (B.Eng in Mechatronics - w/ focus in Automation).
 - 🌱 You can learn about me via my public CV www.eliaspfeffer.de
 - I would love to help projects related to Bitcoin / AGI / making Ai consciouss :)
 - Would consider myself a 5X Developer. Not quite there yet to call me a 10X but definitely faster and better than average and on the way to 10X.
